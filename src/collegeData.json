@@ -1,0 +1,65 @@
+[{"name": "C Mindful College","logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png","preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690","ofstedRating": "Requires Improvement","groupPrefix": "CMC"},
+    {
+      "name": "A Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Outstanding",
+      "groupPrefix": "AMC"
+    },
+    {
+      "name": "Q Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Inadequate",
+      "groupPrefix": "QMC"
+    },
+    {
+      "name": "Z Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Good",
+      "groupPrefix": "ZMC"
+    },
+    {
+      "name": "H Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Inadequate",
+      "groupPrefix": "HMC"
+    },
+    {
+      "name": "W Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Good",
+      "groupPrefix": "WMC"
+    },
+    {
+      "name": "K Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Good",
+      "groupPrefix": "CMC"
+    },
+    {
+      "name": "S Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Inadequate",
+      "groupPrefix": "KMC"
+    },
+    {
+      "name": "J Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Outstanding",
+      "groupPrefix": "JMC"
+    },
+    {
+      "name": "M Mindful College",
+      "logo": "https://mindfuleducation-cdn.s3.eu-west-1.amazonaws.com/logos/master.png",
+      "preroll": "https://player.vimeo.com/external/359094213.m3u8?s=42e68129e10965d9fac9dfb7cea84d63c70ac690",
+      "ofstedRating": "Good",
+      "groupPrefix": "MMC"
+    }
+]

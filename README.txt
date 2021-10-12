@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------
 |    Installation Guide                                               | 
 |    -------------------------------------------------------------    |
-|    1. Direct with your terminal to the project's src                |    
+|    1. Direct with your terminal to the project's                    |    
 |    directory.                                                       |
 |    2. Type "npm install" to download the package.json               |
 |    dependencies.                                                    |
